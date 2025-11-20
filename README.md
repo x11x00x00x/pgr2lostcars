@@ -43,7 +43,7 @@ Restored vehicles from the development archives:
 - Additional colors for the Mini Cooper S, Ford SVT Lightning and TVR Cerbera Speed 12 in Cat & Mouse mode.
 - Expanded color options across various cars for greater personalization.
 
-Special thanks to Jackie and MRVETTE as well as the entire PGR2 Discord: https://discord.gg/HHytpKcdbW
+Special thanks to Jackie, MRVETTE, and Hinksta as well as the entire PGR2 Discord: https://discord.gg/HHytpKcdbW
 
 ## Installation Instructions
 
