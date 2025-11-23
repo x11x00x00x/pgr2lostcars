@@ -28,7 +28,7 @@ Restored vehicles from the development archives:
 
 ### Unlocked Tracks
 
-- All open-world maps, test tracks, and Nürburgring short circuits are fully unlocked.
+- All open-world maps, and test track are fully unlocked.
 - Showroom test track is now available online and in time attack.
 - Removed unusable open-world tracks and renamed zero tracks to "Open World" for clarity.
 
