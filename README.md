@@ -2,7 +2,7 @@
 
 ## Lost Cars Pack
 
-Version 2.0
+Version 2.0.1
 
 **NOTICE: This mod can now be safely used online and in-game. The Lost Cars Pack has been updated to be compatible with online play on Insignia.**
 
